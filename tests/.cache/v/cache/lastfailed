@@ -1,0 +1,16 @@
+{
+  "test_decorators.py": true,
+  "test_generators.py::test_alphabet": true,
+  "test_generators.py::test_alphabet_is_iterable": true,
+  "test_generators.py::test_cubes": true,
+  "test_generators.py::test_fibonacci": true,
+  "test_generators.py::test_fibonacci_is_iterable": true,
+  "test_generators.py::test_generator_is_iterable": true,
+  "test_generators.py::test_is_generator_iterable": true,
+  "test_generators.py::test_look_and_say": true,
+  "test_generators.py::test_look_and_say_is_iterable": true,
+  "test_generators.py::test_permutations": true,
+  "test_generators.py::test_primes": true,
+  "test_generators.py::test_primes_is_iterable": true,
+  "test_iterators.py": true
+}
