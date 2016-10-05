@@ -10,7 +10,8 @@ class Cubes():
     Talserien ska inte ha något slut.
 
     """
-    pass
+    for i in [i ** 3]:
+        print i
 
 
 class Primes():
@@ -44,6 +45,7 @@ class Alphabet():
     Nun, Samekh, Ayin, Pe, Tsadi, Qof, Resh, Shin, Tav
 
     """
+    pass
 
 
 class Permutations():
